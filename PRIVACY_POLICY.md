@@ -1,62 +1,52 @@
-# BudgetNest Privacy Policy
+BudgetNest Privacy Policy
 
 Last updated: October 28, 2026
+Developer: Muhammad Danyal Munir
+Contact: danyalmunir.dev@gmail.com
 
 BudgetNest is a local-first budgeting app. This policy explains what stays on your phone and what, if anything, leaves it.
 
-## Data stored on your device
+Data stored on your device
+Your expenses, income, categories, budgets, subscriptions, goals, wallets, notifications, settings, business records, receipt photos and profile photo are stored on your phone. BudgetNest works fully without an account.
 
-Expenses, income, categories, budgets, subscriptions, goals, wallets, notifications, settings, receipt photos, and your profile photo are stored on your phone. Business profiles, sales, purchases, customers, suppliers, accounts, and business transactions are stored in a separate set of records on the same phone. They are not mixed into your personal budget. BudgetNest works fully without an account.
-
-## Optional cloud backup (Premium)
-
+Optional cloud backup (Premium)
 If you choose to create an account and back up, we store the following in Google Firebase (Authentication and Cloud Firestore):
 
-- Your email address and a password managed by Firebase Authentication.
-- A copy of your expenses, categories, budgets, subscriptions, goals, notifications, wallets, settings, and business records.
+Your email address and a password managed by Firebase Authentication.
+A copy of your expenses, categories, budgets, subscriptions, goals, wallets, notifications, settings and business records.
 
-Receipt photos, your profile photo, and business logos are not uploaded. They stay on your phone.
+Receipt photos, your profile photo and business logos are never uploaded. Only your signed-in account can read or write your backup. Data is sent over HTTPS.
 
-Only your signed-in account can read or write your backup.
+Delete your account and data
 
-## Delete your account and data
+In the app: More → Settings → Cloud backup → Delete account. This deletes your account and cloud backup.
+Without the app: email danyalmunir.dev@gmail.com from your registered address with the subject “Delete my account”. We will delete your account and backup within 30 days.
 
-In the app: More, Settings, Cloud backup, Delete account. This deletes your account and your cloud backup.
+Deleting your account does not remove data stored on your phone. Clear the app’s data or uninstall the app to remove it.
 
-Without the app: email dhanyalmunir851@gmail.com from your registered address with the subject "Delete my account". We will delete your account and backup within 30 days.
+Advertising
+Free users see ads from Google AdMob. AdMob may collect device identifiers and usage data to serve and measure ads, under Google’s privacy policy. In regions where required, a consent prompt is shown. Premium and the one-time Remove Ads purchase hide ads.
 
-Deleting your account does not remove data stored on your phone. You can remove that by clearing the app's data or uninstalling the app.
+Purchases
+Purchases are processed by Google Play. We do not receive or store your card details.
 
-## Advertising
-
-Free users see ads from Google AdMob. AdMob may collect device identifiers and usage data to serve and measure ads, under Google's own privacy policy. Learn how Google uses data: https://policies.google.com/technologies/partner-sites
-
-Premium and the one-time Remove ads option hide ads.
-
-## Purchases
-
-Premium purchases and subscriptions are processed by Google Play. We do not receive or store your card details.
-
-## Receipt scanning (Premium)
-
+Receipt scanning (Premium)
 Receipt text is read on your device with Google ML Kit. The photo is not sent to our servers.
 
-## Exports and support email
+Permissions
+Camera and photo access (to attach receipts), notifications (for reminders), and internet (for backup, ads and purchases). Core features work without camera or photo access.
 
-Exports (CSV, PDF, Excel) are created on your phone and shared only through the share sheet you choose. If you email support, the message goes through your own mail app.
+Exports and support
+Exports (CSV, PDF, Excel) are created on your phone and shared only through the share sheet you choose.
 
-## We do not sell your data
-
+We do not sell your data
 We do not sell or rent your personal information.
 
-## Children
-
+Children
 BudgetNest is not directed to children under 13.
 
-## Changes to this policy
+Changes
+If we change this policy, we will update the date above.
 
-If we change this policy, we will update the date at the top of this page.
-
-## Contact
-
-danyalmunir.dev@gmail.com
+Contact
+Muhammad Danyal Munir, danyalmunir.dev@gmail.com
