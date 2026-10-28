@@ -1,6 +1,6 @@
 # BudgetNest Privacy Policy
 
-Last updated: October 18, 2026
+Last updated: October 28, 2026
 
 BudgetNest is a local-first budgeting app. This policy explains what stays on your phone and what, if anything, leaves it.
 
@@ -59,4 +59,4 @@ If we change this policy, we will update the date at the top of this page.
 
 ## Contact
 
-dhanyalmunir851@gmail.com
+danyalmunir.dev@gmail.com
