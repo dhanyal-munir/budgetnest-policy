@@ -1,6 +1,6 @@
 **BudgetNest Privacy Policy**
 
-**Last updated:** October 29, 2026
+**Last updated:** October 30, 2026
 
 **Developer:** Muhammad Danyal Munir
 
