@@ -4,7 +4,7 @@ title: BudgetNest Privacy Policy
 
 # BudgetNest Privacy Policy
 
-**Last updated:** October 30, 2026
+**Last updated:** November 08, 2026
 
 **Developer:** Muhammad Danyal Munir
 
